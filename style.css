@@ -6,4 +6,10 @@ h1 {
 
 h2{
     font: size 60px;
+    color: rgb(62, 109, 170);
+    background-color: rgba(226, 249, 253, 0.829);
+}
+
+body{
+    background-color: rgba(20, 30, 34, 0.26);
 }
