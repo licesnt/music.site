@@ -6,7 +6,7 @@ head {
 .navbar {
      font-size: larger;
      display: flex;
-     align-items: center;
+     align-items:first baseline;
      justify-content:space-between;
 }
 
