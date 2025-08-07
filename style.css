@@ -12,5 +12,5 @@ head {
 
 .nav_lista{
      display: flex;
-     list-style: outside;
+     list-style:none;
 }
