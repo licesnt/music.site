@@ -17,6 +17,7 @@ font-weight: 600;
 }
 
 .navbar {
+     width: 100%;
      font-size: larger;
      display: flex;
      align-items:center;
