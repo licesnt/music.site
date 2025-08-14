@@ -33,11 +33,11 @@ font-weight: 600;
 
 .nav_item{
      font-size: 50px;
-     color: rgb(159, 173, 185);
+     color: rgb(29, 69, 105);
 }
 .nav_item:hover{
-background-color: rgb(104, 125, 139);
-color: rgb(15, 88, 122);
+background-color: rgb(169, 195, 212);
+color: rgb(221, 234, 240);
 text-decoration: underline;
 
 }
