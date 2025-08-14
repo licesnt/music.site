@@ -12,7 +12,7 @@ head {
 
 #logo {
 font-size: 1.5rem;
-color: rgb(87, 108, 136);
+color: rgb(29, 81, 116);
 font-weight: 600;
 }
 
@@ -37,5 +37,7 @@ font-weight: 600;
 }
 .nav_item:hover{
 background-color: rgb(104, 125, 139);
+color: rgb(15, 88, 122);
+text-decoration: underline;
 
 }
