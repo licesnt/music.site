@@ -41,3 +41,22 @@ color: rgb(221, 234, 240);
 text-decoration: underline;
 
 }
+.home {
+     display: flex;
+     min-height: calc(100vh - 91px);
+}
+
+section {
+     width: 100%;
+     padding: 20px 8%;
+     display: flex;
+}
+
+.titulo {
+     font-size: 4rem;
+     color: rgb(74, 116, 156);
+}
+
+.titulocor{
+     color: rgb(51, 131, 158);
+}
