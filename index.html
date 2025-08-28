@@ -16,6 +16,12 @@
         <nav class="navbar">
             
             <i class="fa-regular fa-star" id="logo">lili saint</i>
+<button class="menu_toggle" id="menuTopggle">
+<span></span>
+<span></span>
+<span></span>
+</button>
+
             <ul class="nav_lista">
                 <li class="nav_item">pop</li>
                 <li class="nav_item">rock</li>
@@ -34,7 +40,25 @@
                 Playlist de  <span class="titulocor">musicas</span> 
             </h1>
         </section>
-    </main>
+    </main><script>
+        // JavaScript para controlar o menu hambúrguer
+        const menuToggle = document.getElementById('menuToggle');
+        const navLista = document.getElementById('navLista');
+        
+        menuToggle.addEventListener('click', function() {
+            navLista.classList.toggle('active');
+            menuToggle.classList.toggle('active');
+        });
+        
+        // Fechar menu ao clicar em um item
+        const navItems = document.querySelectorAll('.nav_item');
+        navItems.forEach(item => {
+            item.addEventListener('click', function() {
+                navLista.classList.remove('active');
+                menuToggle.classList.remove('active');
+            });
+        });
+    </script>
 
 </body>
 
