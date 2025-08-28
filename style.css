@@ -20,7 +20,7 @@ font-weight: 600;
      width: 100%;
      font-size: 50px;
      display: flex;
-     align-items:last baseline;
+     align-items:center;
      justify-content:end;
 }
 
