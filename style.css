@@ -28,7 +28,7 @@ font-weight: 600;
      display: flex;
      list-style:none;
      gap:80px;
-     text-transform: uppercase;
+     text-transform:none;
 }
 
 .nav_item{
