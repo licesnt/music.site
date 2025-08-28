@@ -21,7 +21,7 @@ font-weight: 600;
      font-size: 50px;
      display: flex;
      align-items:last baseline;
-     justify-content:center;
+     justify-content: left;
 }
 
 .nav_lista{
