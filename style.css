@@ -20,7 +20,7 @@ font-weight: 600;
      width: 100%;
      font-size: 50px;
      display: flex;
-     align-items:center;
+     align-items:first baseline;
      justify-content:center;
 }
 
@@ -32,7 +32,7 @@ font-weight: 600;
 }
 
 .nav_item{
-     font-size:25px;
+     font-size:50px;
      color: rgb(29, 69, 105);
 }
 .nav_item:hover{
