@@ -20,7 +20,7 @@ font-weight: 600;
      width: 100%;
      font-size: larger;
      display: flex;
-     align-items:baseline;
+     align-items:first baseline;
      justify-content:space-between;
 }
 
