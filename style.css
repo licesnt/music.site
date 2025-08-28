@@ -6,7 +6,7 @@
 
 head {
      width: 100%;
-     padding: 50px 8%;
+     padding: 20px 8%;
 
 }
 
@@ -21,14 +21,14 @@ font-weight: 600;
      font-size: 50px;
      display: flex;
      align-items:center;
-     justify-content:end;
+     justify-content:center;
 }
 
 .nav_lista{
      display: flex;
      list-style:none;
      gap:80px;
-     text-transform:none;
+     text-transform:uppercase;
 }
 
 .nav_item{
@@ -38,7 +38,7 @@ font-weight: 600;
 .nav_item:hover{
 background-color: rgb(169, 195, 212);
 color: rgb(221, 234, 240);
-text-decoration: underline;
+text-decoration:center;
 
 }
 .home {
