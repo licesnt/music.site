@@ -23,7 +23,6 @@ font-weight: 600;
 
 .navbar {
      width: 100%;
-     font-size: 50px;
      display: flex;
      align-items:center;
      justify-content:space-between;
@@ -67,4 +66,21 @@ section {
 
 .titulocor{
      color: rgb(138, 185, 201);
+}
+
+.menu-toggle{
+     display: none;
+     flex-direction: column;
+     cursor: pointer;
+     background: none;
+     border: none;
+     padding: 5px;
+}
+
+.menu-toggle span {
+     width: 25px;
+     height: 3px;
+     background-color: white;
+     margin: 3px 0;
+     transition: 0.3s;
 }
