@@ -50,6 +50,7 @@ text-decoration:center;
 .home {
      display: flex;
      min-height: calc(100vh - 91px);
+     margin-top: 91px;
 }
 
 section {
