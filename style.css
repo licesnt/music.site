@@ -1,6 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
 
-
+:root {
+    --cor-primaria-1: #94AFD1;
+    --cor-primaria-2: #2F5D73;
+    --cor-primaria-3: #454D78;
+    --cor-primaria-4: #2A344F;
+    --cor-primaria-5: #15113B;
+}
 
 
 
