@@ -20,6 +20,10 @@
      font-family: "Dancing Script", sans-serif;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 head {
      width: 100%;
      padding: 20px 8%;
