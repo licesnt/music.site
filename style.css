@@ -71,7 +71,7 @@ text-decoration: none
  }
 
 .nav_item:hover{
-background-color: rgb(169, 195, 212);
+background-color: rgba(48, 81, 105, 0.432);
 color: rgb(221, 234, 240);
 text-decoration:center;
 
